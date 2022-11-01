@@ -1,0 +1,7 @@
+from mistyPyhton
+
+misty = Robot
+
+# Your code
+misty.sing
+misty.move (3)
